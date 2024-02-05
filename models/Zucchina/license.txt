@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zucchini
+* source:	https://sketchfab.com/3d-models/zucchini-1d759f9b2d934275b4ce7bb7fb5c53f0
+* author:	Tomek Suchodolski (https://sketchfab.com/XID3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zucchini" (https://sketchfab.com/3d-models/zucchini-1d759f9b2d934275b4ce7bb7fb5c53f0) by Tomek Suchodolski (https://sketchfab.com/XID3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

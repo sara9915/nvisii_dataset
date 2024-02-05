@@ -1,0 +1,11 @@
+Model Information:
+* title:	Santal ACE
+* source:	https://sketchfab.com/3d-models/santal-ace-6c9dad5c781841dbae2dcbd9fc3e95fb
+* author:	visionaut (https://sketchfab.com/visionaut)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Santal ACE" (https://sketchfab.com/3d-models/santal-ace-6c9dad5c781841dbae2dcbd9fc3e95fb) by visionaut (https://sketchfab.com/visionaut) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

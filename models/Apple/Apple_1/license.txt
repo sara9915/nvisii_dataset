@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apple (Textured)
+* source:	https://sketchfab.com/3d-models/apple-textured-0ec03fdacb62498c83cf4f644ef1a253
+* author:	nkynigopoulos (https://sketchfab.com/nkynigopoulos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apple (Textured)" (https://sketchfab.com/3d-models/apple-textured-0ec03fdacb62498c83cf4f644ef1a253) by nkynigopoulos (https://sketchfab.com/nkynigopoulos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
